@@ -15,7 +15,7 @@ public class PassengerController {
 	public PassengerDto getDummyPassenger() {
 		
 	  PassengerDto dto = new PassengerDto();
-	  dto.setFullName("Delep Jung");
+	  dto.setFullName("Haldi Rams");
 	  dto.setGender("Male");
 	  dto.setPhone("4435678907");
 	  dto.setEmail("abcd@hardmail.com");
