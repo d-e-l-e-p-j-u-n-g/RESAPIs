@@ -39,11 +39,20 @@ public class FlightService {
 		dto3.setGender("Female");
 		dto3.setPhone("4435675643");
 		dto3.setEmail("ab@hardmail.com");
+		
+		PassengerDto dto4 = new PassengerDto();
+		dto3.setFullName("Aroma Khadka");
+		dto3.setGender("Female");
+		dto3.setPhone("4435675643");
+		dto3.setEmail("ab@hardmail.com");
+
 
 		passengerlist.add(dto);
 		passengerlist.add(dto1);
 		passengerlist.add(dto2);
 		passengerlist.add(dto3);
+		passengerlist.add(dto4);
+
 
 		fd.setPassengerlist(passengerlist);
 
@@ -82,11 +91,19 @@ public class FlightService {
 		dto3.setGender("Female");
 		dto3.setPhone("4435675643");
 		dto3.setEmail("ab@hardmail.com");
+		
+		PassengerDto dto4 = new PassengerDto();
+		dto3.setFullName("Aroma Khadka");
+		dto3.setGender("Female");
+		dto3.setPhone("4435675643");
+		dto3.setEmail("ab@hardmail.com");
 
 		passengerlist.add(dto);
 		passengerlist.add(dto1);
 		passengerlist.add(dto2);
 		passengerlist.add(dto3);
+		passengerlist.add(dto4);
+		
 
 		fd.setPassengerlist(passengerlist);
 
