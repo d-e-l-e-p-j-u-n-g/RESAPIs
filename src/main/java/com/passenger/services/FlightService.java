@@ -93,10 +93,10 @@ public class FlightService {
 		dto3.setEmail("ab@hardmail.com");
 		
 		PassengerDto dto4 = new PassengerDto();
-		dto3.setFullName("Aroma Khadka");
-		dto3.setGender("Female");
+		dto3.setFullName("roma Thapa");
+		dto3.setGender("male");
 		dto3.setPhone("4435675643");
-		dto3.setEmail("ab@hardmail.com");
+		dto3.setEmail("abhjjjj@hardmail.com");
 
 		passengerlist.add(dto);
 		passengerlist.add(dto1);
